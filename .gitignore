@@ -2,3 +2,4 @@
 **/*.venv
 **/*.synctex.gz
 **/*.DS_Store
+**/*.aux
