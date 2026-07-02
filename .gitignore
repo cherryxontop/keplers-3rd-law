@@ -1,0 +1,4 @@
+#clutter
+**/*.venv
+**/*.synctex.gz
+**/*.DS_Store
