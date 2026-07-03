@@ -6,6 +6,8 @@
 ok i'll try to make as much sense as i can. ooh also first time using latex formally informally yay
 \bigskip
 
+\section{theory}
+
 kepler's third law states that the square of the orbital period of a planet (P) is directly proportional to the cube of the semi-major axis of its orbit (a). this means that if you know the distance of a planet from the sun, you can calculate how long it takes to complete one orbit around the sun.
 \smallskip
 
@@ -27,7 +29,23 @@ if we measure the distances in AU, and the orbital periods in years, the constan
 P^2 = a^3
 \end{equation}
 
+kepler developed this law empirically, newton then used his law of universal gravitation and refined it,
 
+for a circular orbit, the gravitational force is equal to the centripetal force,
+\begin{equation}
+\frac{GMm}{r^2} = \frac{mv^2}{r}
+\end{equation}
 
+$m$ cancels out, and we can substitute $v$ with $\frac{2\pi r}{P}$,
+
+\begin{equation}
+\frac{GM}{r^2} = \frac{4\pi^2 r}{P^2}
+\end{equation}
+
+which gives us kepler's third law in terms of the gravitational constant and mass of two bodies:
+
+\begin{equation}
+P^2 = \frac{4\pi^2}{G(M+m)}a^3
+\end{equation}
 
 \end{document}
