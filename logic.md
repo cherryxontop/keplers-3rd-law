@@ -4,6 +4,7 @@ well, `P² = a³` is gonna work if were using standard SIs i.e. years, AU, and s
 
 what is it actually for?
 -i'm lazy :D
+-i hate unit conversionss
 -i don't wanna think about some "what does this formula want from me"
 -give it any 2, solves for the third (i cant be bothered (imessedupontheastroexam))
 -and it (hopefully) works for anything on a keplerian orbit - planets, moons, binary stars, exoplanets.
