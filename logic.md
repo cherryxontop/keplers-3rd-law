@@ -11,4 +11,4 @@ what is it actually for?
 interesting obs:
 if we know how long an exoplanet takes to orbit and how far away it is, we can solve for the star's mass :DD
 
-so basically, we work backwards as we watch something orbit the stars and that how we get stellar masses. this calculator does the exact same thing. how crazy.
+so basically, we work backwards as we watch something orbit the stars and that how we get stellar masses. this calculator does the exact same thing.
